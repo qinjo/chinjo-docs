@@ -1,11 +1,11 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "前言介绍",
   "about": {
     "title": "About",
     "type": "page"
   },
+  "chatGPT": "ChatGPT 教程",
+  "midjourney": "Mid Journey 教程",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
