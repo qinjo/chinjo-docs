@@ -1,5 +1,10 @@
 {
-  "introduction": "ChatGPT 教程",
-  "basic-principles-recommendations": "基本原则 & 建议",
-  "basic-usage": "基本用法"
+  "scene1": "场景1：问答问题",
+  "scene2": "场景2：基于示例回答",
+  "scene3": "场景3：推理",
+  "scene4": "场景4：无中生有——写代码",
+  "scene5": "场景5：锦上添花——改写内容",
+  "scene6": "场景6：锦上添花——信息解释",
+  "scene7": "场景7：化繁为简——信息总结",
+  "scene8": "场景8：化繁为简——信息提取"
 }

@@ -1,17 +1,13 @@
 {
   "index": "前言介绍",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
-  "chatGPT": {
-    "1-tutorial-basics": {
-      "introduction": "ChatGPT 教程"
-    }
-  },
-  "midjourney": "Mid Journey 教程",
+  "chatGPT": "🧭 ChatGPT 学习导航",
+  "midjourney": "🧭 Mid Journey 学习导航",
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系我 ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
