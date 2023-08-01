@@ -4,7 +4,11 @@
     "title": "About",
     "type": "page"
   },
-  "chatGPT": "ChatGPT 教程",
+  "chatGPT": {
+    "1-tutorial-basics": {
+      "introduction": "ChatGPT 教程"
+    }
+  },
   "midjourney": "Mid Journey 教程",
   "contact": {
     "title": "Contact ↗",
